@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafiu+Sidqi;I+Love+React+%F0%9F%98%8D)](https://git.io/typing-svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-240.5%20thousand%20lines%20of%20code-blue)
 
@@ -58,5 +58,5 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2023 01:15:10 UTC
+ Last Updated on 16/12/2023 01:13:08 UTC
 <!--END_SECTION:waka-->
