@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafiu+Sidqi;Junior+Backend+Developer)](https://git.io/typing-svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -29,16 +29,16 @@ Sunday                   521 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      12 hrs 40 mins      █████████████████████████   100.00 % 
+PHP                      12 hrs 50 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 50 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tedikap_api              12 hrs 40 mins      █████████████████████████   100.00 % 
+tedikap_api              12 hrs 50 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -54,5 +54,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2024 00:56:22 UTC
+ Last Updated on 23/06/2024 01:00:48 UTC
 <!--END_SECTION:waka-->
