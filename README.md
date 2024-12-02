@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafiu+Sidqi;Junior+Backend+Developer)](https://git.io/typing-svg)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-595%20hrs%2054%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -55,5 +57,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 01:24:49 UTC
+ Last Updated on 02/12/2024 01:15:31 UTC
 <!--END_SECTION:waka-->
