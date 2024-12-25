@@ -29,15 +29,13 @@ Sunday                   736 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 27 mins        ███████████████████░░░░░░   76.05 % 
-HTML                     27 mins             ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -53,5 +51,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2024 01:08:15 UTC
+ Last Updated on 25/12/2024 01:07:21 UTC
 <!--END_SECTION:waka-->
