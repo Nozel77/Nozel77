@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafiu+Sidqi;Junior+Backend+Developer)](https://git.io/typing-svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-686%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -29,17 +29,16 @@ Sunday                   736 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 57 mins      ████████████████████████░   94.99 % 
-PHP                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Python                   14 hrs 3 mins       ████████████████████████░   96.05 % 
+PHP                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 32 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 38 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 hrs 29 mins      █████████████████████████   99.61 % 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Linux                    14 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -55,5 +54,5 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2025 01:07:09 UTC
+ Last Updated on 25/01/2025 01:03:14 UTC
 <!--END_SECTION:waka-->
