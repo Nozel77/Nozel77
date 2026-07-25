@@ -27,18 +27,18 @@ Sunday                   760 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   11 hrs 8 mins       ██████████████░░░░░░░░░░░   57.90 % 
-JavaScript               2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Text                     1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Python                   9 hrs 31 mins       ██████████████░░░░░░░░░░░   54.04 % 
+JavaScript               2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Text                     1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 27 mins      ███████████████████████░░   90.78 % 
-Claude Code              1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+VS Code                  15 hrs 51 mins      ██████████████████████░░░   90.00 % 
+Claude Code              1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 
 💻 Operating System: 
-Windows                  19 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,5 +54,5 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:28:00 UTC
+ Last Updated on 25/07/2026 02:22:33 UTC
 <!--END_SECTION:waka-->
