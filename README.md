@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafiu+Sidqi;Junior+Backend+Developer)](https://git.io/typing-svg)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C824%20hrs%204%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.49%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -27,18 +29,18 @@ Sunday                   760 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 31 mins       ██████████████░░░░░░░░░░░   54.04 % 
-JavaScript               2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Text                     1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Python                   9 hrs 37 mins       ████████████████████░░░░░   79.03 % 
+YAML                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Markdown                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 51 mins      ██████████████████████░░░   90.00 % 
-Claude Code              1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+VS Code                  11 hrs 58 mins      █████████████████████████   98.40 % 
+Claude Code              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 💻 Operating System: 
-Windows                  17 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,5 +56,5 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:22:33 UTC
+ Last Updated on 26/07/2026 02:32:08 UTC
 <!--END_SECTION:waka-->
