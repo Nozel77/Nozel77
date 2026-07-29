@@ -1,28 +1,24 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafiu+Sidqi;Junior+Backend+Developer)](https://git.io/typing-svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C816%20hrs%2032%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-196%20hrs%203%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.49%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4721 commits        ██████████░░░░░░░░░░░░░░░   39.45 % 
-🌆 Daytime                5918 commits        ████████████░░░░░░░░░░░░░   49.45 % 
-🌃 Evening                848 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+🌞 Morning                4723 commits        ██████████░░░░░░░░░░░░░░░   39.45 % 
+🌆 Daytime                5921 commits        ████████████░░░░░░░░░░░░░   49.46 % 
+🌃 Evening                848 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 🌙 Night                  480 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   1914 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Tuesday                  2634 commits        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-Wednesday                2044 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Thursday                 2409 commits        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-Friday                   1747 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Saturday                 459 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Tuesday                  2638 commits        ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Wednesday                2045 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Thursday                 2409 commits        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Friday                   1747 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Saturday                 459 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 Sunday                   760 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 ```
 
@@ -31,41 +27,40 @@ Sunday                   760 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 14 mins       ██████████████████████░░░   87.78 % 
-Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Python                   8 hrs 6 mins        ████████████████████████░   96.91 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 7 mins        ████████████████████████░   97.14 % 
-Claude Code              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+VS Code                  8 hrs 14 mins       █████████████████████████   98.51 % 
+Claude Code              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 💻 Operating System: 
-Windows                  9 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 4 mins (54.09%)
+⏱ AI Coding Time: 4 hrs 7 mins (49.34%)
 
-✍️ 7,600 lines written by AI, 894 lines written by hand (89.47% AI-written)
+✍️ 3,882 lines written by AI, 245 lines written by hand (94.06% AI-written)
 
-🔤 51,330,169 Input Tokens, 385,440 Output Tokens
+🔤 47,925,384 Input Tokens, 322,458 Output Tokens
 
-💵 $151.34 Estimated AI Cost This Week
+💵 $142.49 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 67 AI Prompts
+🧠 19 AI Sessions, 49 AI Prompts
 
-Deepseek                 7,931 lines         █████████████████████████   100.00 % 
+Deepseek                 3,940 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.47% of written lines came from AI
-📚 Verbose Prompter — average 12,789 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 18.47% of changed lines were hand-edited
+🤖 AI-Driven — 94.06% of written lines came from AI
+📚 Verbose Prompter — average 11,176 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 8.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -81,5 +76,5 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 02:14:34 UTC
+ Last Updated on 29/07/2026 02:17:59 UTC
 <!--END_SECTION:waka-->
