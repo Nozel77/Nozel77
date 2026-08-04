@@ -31,41 +31,41 @@ Sunday                   760 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   11 hrs 28 mins      ██████████████████████░░░   88.91 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Python                   8 hrs 3 mins        █████████████████████░░░░   85.21 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 41 mins      █████████████████████████   98.29 % 
-Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+VS Code                  9 hrs 18 mins       █████████████████████████   98.48 % 
+Claude Code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 💻 Operating System: 
-Windows                  12 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 33 mins (50.77%)
+⏱ AI Coding Time: 4 hrs 46 mins (50.59%)
 
-✍️ 3,614 lines written by AI, 5,539 lines written by hand (39.48% AI-written)
+✍️ 3,139 lines written by AI, 5,426 lines written by hand (36.65% AI-written)
 
-🔤 52,999,651 Input Tokens, 371,411 Output Tokens
+🔤 40,396,575 Input Tokens, 277,320 Output Tokens
 
-💵 $154.41 Estimated AI Cost This Week
+💵 $119.35 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 75 AI Prompts
+🧠 16 AI Sessions, 52 AI Prompts
 
-Deepseek                 3,756 lines         █████████████████████████   100.00 % 
+Deepseek                 3,235 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.48% of written lines came from AI
-📚 Verbose Prompter — average 8,770 characters per prompt
+⚖️ Balanced with AI — 36.65% of written lines came from AI
+📚 Verbose Prompter — average 5,555 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 59.67% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 62.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -81,5 +81,5 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 02:33:01 UTC
+ Last Updated on 04/08/2026 02:13:08 UTC
 <!--END_SECTION:waka-->
