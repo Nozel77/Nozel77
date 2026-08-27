@@ -31,46 +31,46 @@ Sunday                   764 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 47 mins      ██████████░░░░░░░░░░░░░░░   41.90 % 
-TypeScript               4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Bash                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-JavaScript               2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-JSON                     1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Python                   9 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.28 % 
+TypeScript               4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+JSON                     1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+JavaScript               1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Bash                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 14 mins      ████████████████░░░░░░░░░   63.03 % 
-Antigravity CLI          4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Grok Build               2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Claude Code              2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+VS Code                  14 hrs 26 mins      █████████████████░░░░░░░░   69.06 % 
+Grok Build               2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Antigravity CLI          2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Claude Code              1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 
 💻 Operating System: 
-Windows                  25 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 3 mins (85.58%)
+⏱ AI Coding Time: 17 hrs 36 mins (84.24%)
 
-✍️ 14,889 lines written by AI, 1,118 lines written by hand (93.02% AI-written)
+✍️ 13,774 lines written by AI, 1,100 lines written by hand (92.6% AI-written)
 
-🔤 51,364,490 Input Tokens, 785,436 Output Tokens
+🔤 49,454,803 Input Tokens, 729,061 Output Tokens
 
-💵 $245.71 Estimated AI Cost This Week
+💵 $215.05 Estimated AI Cost This Week
 
-🧠 104 AI Sessions, 314 AI Prompts
+🧠 87 AI Sessions, 234 AI Prompts
 
-Grok                     9,764 lines         █████████████████░░░░░░░░   66.26 % 
-Deepseek                 4,521 lines         ████████░░░░░░░░░░░░░░░░░   30.68 % 
-Spark                    410 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Claude-Code              41 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Grok                     9,920 lines         ██████████████████░░░░░░░   72.81 % 
+Deepseek                 3,254 lines         ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+Spark                    410 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Claude-Code              41 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.02% of written lines came from AI
-📚 Verbose Prompter — average 8,707 characters per prompt
+🤖 AI-Driven — 92.6% of written lines came from AI
+📚 Verbose Prompter — average 9,706 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 8.11% of changed lines were hand-edited
+🚀 High AI Trust — 8.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -86,5 +86,5 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 01:09:46 UTC
+ Last Updated on 27/08/2026 07:08:46 UTC
 <!--END_SECTION:waka-->
