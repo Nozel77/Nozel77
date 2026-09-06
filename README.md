@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafiu+Sidqi;Junior+Backend+Developer)](https://git.io/typing-svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C903%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C907%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-261%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-264%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -31,26 +31,26 @@ Sunday                   764 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   15 hrs 24 mins      ██████████████████░░░░░░░   71.42 % 
-Markdown                 1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Bash                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-YAML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Python                   15 hrs 24 mins      ███████████████████░░░░░░   76.33 % 
+Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+YAML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 32 mins      █████████████████████░░░░   85.94 % 
-Antigravity CLI          2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Claude Code              54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Grok Build               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+VS Code                  18 hrs 23 mins      ███████████████████████░░   91.16 % 
+Claude Code              54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Antigravity CLI          46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Grok Build               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Windows                  21 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 2 mins (79.0%)
+⏱ AI Coding Time: 15 hrs 38 mins (77.55%)
 
 ✍️ 8,137 lines written by AI, 1,148 lines written by hand (87.64% AI-written)
 
@@ -58,7 +58,7 @@ Windows                  21 hrs 33 mins      ███████████�
 
 💵 $355.27 Estimated AI Cost This Week
 
-🧠 56 AI Sessions, 216 AI Prompts
+🧠 53 AI Sessions, 189 AI Prompts
 
 Deepseek                 6,490 lines         ███████████████████░░░░░░   76.50 % 
 Grok                     1,051 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
@@ -68,7 +68,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 87.64% of written lines came from AI
-📚 Verbose Prompter — average 6,956 characters per prompt
+📚 Verbose Prompter — average 7,935 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 15.85% of changed lines were hand-edited
 ```
@@ -86,5 +86,5 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 02:50:00 UTC
+ Last Updated on 06/09/2026 02:46:49 UTC
 <!--END_SECTION:waka-->
