@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafiu+Sidqi;Junior+Backend+Developer)](https://git.io/typing-svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C907%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C915%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-264%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-271%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.67%20million%20lines%20of%20code-blue?style=flat)
 
@@ -31,46 +31,46 @@ Sunday                   764 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   18 hrs 16 mins      ████████████████████░░░░░   78.65 % 
-Markdown                 1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-JavaScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Python                   21 hrs 5 mins       ████████████████████░░░░░   79.81 % 
+Markdown                 1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+YAML                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+TypeScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Text                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 16 mins      ███████████████████████░░   91.50 % 
-Claude Code              1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Grok Build               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Antigravity CLI          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+VS Code                  23 hrs 31 mins      ██████████████████████░░░   89.02 % 
+Claude Code              2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Antigravity CLI          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Grok Build               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Windows                  23 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 39 mins (80.25%)
+⏱ AI Coding Time: 20 hrs 37 mins (78.01%)
 
-✍️ 32,184 lines written by AI, 842 lines written by hand (97.45% AI-written)
+✍️ 31,819 lines written by AI, 1,134 lines written by hand (96.56% AI-written)
 
-🔤 164,915,502 Input Tokens, 1,963,971 Output Tokens
+🔤 144,874,450 Input Tokens, 2,058,563 Output Tokens
 
-💵 $627.05 Estimated AI Cost This Week
+💵 $631.03 Estimated AI Cost This Week
 
-🧠 68 AI Sessions, 244 AI Prompts
+🧠 73 AI Sessions, 251 AI Prompts
 
-Deepseek                 31,122 lines        ████████████████████████░   96.57 % 
-Spark                    966 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Grok                     138 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Deepseek                 29,672 lines        ███████████████████████░░   91.06 % 
+Grok                     1,908 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Spark                    1,005 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.45% of written lines came from AI
-📚 Verbose Prompter — average 10,868 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.17% of changed lines were hand-edited
+🤖 AI-Driven — 96.56% of written lines came from AI
+📚 Verbose Prompter — average 13,248 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 5.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -86,5 +86,5 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 02:57:37 UTC
+ Last Updated on 09/09/2026 02:57:53 UTC
 <!--END_SECTION:waka-->
