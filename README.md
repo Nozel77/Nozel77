@@ -9,21 +9,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4911 commits        ██████████░░░░░░░░░░░░░░░   39.77 % 
-🌆 Daytime                6093 commits        ████████████░░░░░░░░░░░░░   49.34 % 
+🌞 Morning                4912 commits        ██████████░░░░░░░░░░░░░░░   39.74 % 
+🌆 Daytime                6103 commits        ████████████░░░░░░░░░░░░░   49.38 % 
 🌃 Evening                861 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 🌙 Night                  483 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2017 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Tuesday                  2723 commits        ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-Wednesday                2111 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Thursday                 2494 commits        █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Friday                   1763 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Monday                   2017 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Tuesday                  2723 commits        ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Wednesday                2111 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Thursday                 2494 commits        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Friday                   1774 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 Saturday                 476 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Sunday                   764 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Sunday                   764 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 ```
 
 
@@ -31,45 +31,44 @@ Sunday                   764 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 55 mins      ████████████████░░░░░░░░░   63.26 % 
-TypeScript               1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Markdown                 1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   13 hrs 6 mins       ██████████████████░░░░░░░   71.76 % 
+TypeScript               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Markdown                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 32 mins      ████████████████████░░░░░   78.39 % 
-Claude Code              3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-Antigravity CLI          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+VS Code                  14 hrs 37 mins      ████████████████████░░░░░   80.07 % 
+Claude Code              3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Antigravity CLI          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Windows                  17 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 25 mins (89.24%)
+⏱ AI Coding Time: 14 hrs 55 mins (81.7%)
 
-✍️ 6,550 lines written by AI, 183 lines written by hand (97.28% AI-written)
+✍️ 5,543 lines written by AI, 489 lines written by hand (91.89% AI-written)
 
-🔤 21,287,794 Input Tokens, 828,269 Output Tokens
+🔤 19,262,853 Input Tokens, 929,302 Output Tokens
 
-💵 $240.88 Estimated AI Cost This Week
+💵 $263.60 Estimated AI Cost This Week
 
-🧠 62 AI Sessions, 184 AI Prompts
+🧠 57 AI Sessions, 158 AI Prompts
 
-Deepseek                 5,103 lines         ███████████████████░░░░░░   74.38 % 
-Grok                     881 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Opus                     857 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Gemini                   20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Deepseek                 5,074 lines         █████████████████████░░░░   85.26 % 
+Opus                     857 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Gemini                   20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.28% of written lines came from AI
-📚 Verbose Prompter — average 7,963 characters per prompt
+🤖 AI-Driven — 91.89% of written lines came from AI
+📚 Verbose Prompter — average 8,366 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 3.86% of changed lines were hand-edited
+🚀 High AI Trust — 10.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -85,5 +84,5 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 03:04:39 UTC
+ Last Updated on 19/09/2026 03:02:21 UTC
 <!--END_SECTION:waka-->
