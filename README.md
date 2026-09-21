@@ -31,42 +31,42 @@ Sunday                   764 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   13 hrs 6 mins       ███████████████████░░░░░░   75.96 % 
-Markdown                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-TypeScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Python                   13 hrs 2 mins       █████████████████████░░░░   84.42 % 
+Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 37 mins      █████████████████████░░░░   84.75 % 
-Claude Code              2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Antigravity CLI          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+VS Code                  14 hrs 33 mins      ████████████████████████░   94.30 % 
+Claude Code              48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Antigravity CLI          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Windows                  17 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 55 mins (80.63%)
+⏱ AI Coding Time: 12 hrs 7 mins (78.53%)
 
-✍️ 4,697 lines written by AI, 489 lines written by hand (90.57% AI-written)
+✍️ 4,157 lines written by AI, 489 lines written by hand (89.47% AI-written)
 
-🔤 17,926,890 Input Tokens, 855,150 Output Tokens
+🔤 6,448,628 Input Tokens, 747,689 Output Tokens
 
-💵 $255.66 Estimated AI Cost This Week
+💵 $255.41 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 141 AI Prompts
+🧠 47 AI Sessions, 120 AI Prompts
 
-Deepseek                 5,074 lines         █████████████████████████   100.00 % 
+Deepseek                 5,059 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.57% of written lines came from AI
-📚 Verbose Prompter — average 9,330 characters per prompt
+🤖 AI-Driven — 89.47% of written lines came from AI
+📚 Verbose Prompter — average 7,794 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 11.43% of changed lines were hand-edited
+🚀 High AI Trust — 12.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -82,5 +82,5 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 03:16:27 UTC
+ Last Updated on 21/09/2026 03:12:43 UTC
 <!--END_SECTION:waka-->
