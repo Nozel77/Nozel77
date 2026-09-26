@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafiu+Sidqi;Junior+Backend+Developer)](https://git.io/typing-svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C959%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C965%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-307%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-312%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.75%20million%20lines%20of%20code-blue?style=flat)
 
@@ -31,42 +31,44 @@ Sunday                   764 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   16 hrs 7 mins       ██████████████████████░░░   86.81 % 
-Go                       36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Python                   15 hrs              ███████████████░░░░░░░░░░   61.24 % 
+JavaScript               3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+TypeScript               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Markdown                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Go                       36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 25 mins      ███████████████████████░░   93.81 % 
-Claude Code              1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+VS Code                  23 hrs 21 mins      ████████████████████████░   95.27 % 
+Claude Code              1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 💻 Operating System: 
-Windows                  18 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 54 mins (80.26%)
+⏱ AI Coding Time: 22 hrs 8 mins (90.29%)
 
-✍️ 17,277 lines written by AI, 1,933 lines written by hand (89.94% AI-written)
+✍️ 23,580 lines written by AI, 1,629 lines written by hand (93.54% AI-written)
 
-🔤 15,706,860 Input Tokens, 1,794,507 Output Tokens
+🔤 25,328,182 Input Tokens, 2,604,635 Output Tokens
 
-💵 $963.87 Estimated AI Cost This Week
+💵 $1329.49 Estimated AI Cost This Week
 
-🧠 59 AI Sessions, 138 AI Prompts
+🧠 78 AI Sessions, 218 AI Prompts
 
-Deepseek                 17,597 lines        █████████████████████████   100.00 % 
+Deepseek                 24,396 lines        █████████████████████████   98.14 % 
+Spark                    296 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Agnes                    166 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.94% of written lines came from AI
-📚 Verbose Prompter — average 12,535 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 13.78% of changed lines were hand-edited
+🤖 AI-Driven — 93.54% of written lines came from AI
+📚 Verbose Prompter — average 8,260 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 9.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -82,5 +84,5 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 03:19:48 UTC
+ Last Updated on 26/09/2026 03:23:49 UTC
 <!--END_SECTION:waka-->
