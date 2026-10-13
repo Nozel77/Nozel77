@@ -4,25 +4,25 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-351%20hrs%2046%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.79%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.89%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5264 commits        ██████████░░░░░░░░░░░░░░░   40.56 % 
-🌆 Daytime                6356 commits        ████████████░░░░░░░░░░░░░   48.98 % 
+🌞 Morning                5266 commits        ██████████░░░░░░░░░░░░░░░   40.56 % 
+🌆 Daytime                6360 commits        ████████████░░░░░░░░░░░░░   48.99 % 
 🌃 Evening                874 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 🌙 Night                  483 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2168 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Tuesday                  2850 commits        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-Wednesday                2201 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Thursday                 2624 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Monday                   2170 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Tuesday                  2854 commits        █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Wednesday                2201 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Thursday                 2624 commits        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
 Friday                   1891 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Saturday                 477 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Saturday                 477 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 Sunday                   766 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
 ```
 
@@ -31,59 +31,59 @@ Sunday                   766 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   15 hrs 36 mins      █████████████████░░░░░░░░   68.35 % 
-YAML                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Svelte                   1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Other                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Python                   12 hrs 18 mins      ████████████████░░░░░░░░░   64.82 % 
+YAML                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Svelte                   1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 20 mins      ████████████░░░░░░░░░░░░░   49.69 % 
-Claude Code              11 hrs 18 mins      ████████████░░░░░░░░░░░░░   49.55 % 
-Grok Build               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+VS Code                  11 hrs 4 mins       ███████████████░░░░░░░░░░   58.31 % 
+Claude Code              7 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   40.78 % 
+Grok Build               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Windows                  22 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 38 mins (77.27%)
+⏱ AI Coding Time: 13 hrs 38 mins (71.89%)
 
-✍️ 31,579 lines written by AI, 616 lines written by hand (98.09% AI-written)
+✍️ 30,894 lines written by AI, 595 lines written by hand (98.11% AI-written)
 
-🔤 19,564,112 Input Tokens, 3,568,549 Output Tokens
+🔤 17,725,842 Input Tokens, 3,084,591 Output Tokens
 
-💵 $1511.31 Estimated AI Cost This Week
+💵 $1215.76 Estimated AI Cost This Week
 
-🧠 76 AI Sessions, 184 AI Prompts
+🧠 62 AI Sessions, 146 AI Prompts
 
-DeepSeek                 28,517 lines        █████████████████████░░░░   85.77 % 
-Deepseek                 4,730 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+DeepSeek                 27,190 lines        █████████████████████░░░░   84.80 % 
+Deepseek                 4,730 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Spark                    145 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.09% of written lines came from AI
-📚 Verbose Prompter — average 14,572 characters per prompt
+🤖 AI-Driven — 98.11% of written lines came from AI
+📚 Verbose Prompter — average 14,258 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 2.23% of changed lines were hand-edited
+🚀 High AI Trust — 2.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   42 repos            ████████████░░░░░░░░░░░░░   49.41 % 
-JavaScript               15 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-PHP                      11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Dart                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   45 repos            █████████████░░░░░░░░░░░░   51.14 % 
+JavaScript               15 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+PHP                      11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Dart                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 ```
 
 
 
 
- Last Updated on 12/10/2026 04:13:55 UTC
+ Last Updated on 13/10/2026 05:21:51 UTC
 <!--END_SECTION:waka-->
